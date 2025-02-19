@@ -1,0 +1,28 @@
+{
+  "name": "amazon-scraper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RuchikaNikam/amazon-scraper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/RuchikaNikam/amazon-scraper/issues"
+  },
+  "homepage": "https://github.com/RuchikaNikam/amazon-scraper#readme",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.10.1",
+    "node-cron": "^3.0.3",
+    "playwright": "^1.50.1"
+  }
+}
